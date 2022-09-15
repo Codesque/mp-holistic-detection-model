@@ -9,7 +9,7 @@
 
 <p align = "center">How can I import this to my local machine ? </p> 
 <hr> 
-<p style="background-color:#666666;">python -m pip install virtualenv</p> 
+<p style="background-color:#666666;">>python -m pip install virtualenv</p> 
 <p>If you havent install venv you should install that firstly </p>  
 
 <br>
